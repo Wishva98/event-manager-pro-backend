@@ -25,7 +25,6 @@ EventHub API provides secure authentication, role-based access control, and even
 - Django REST Framework
 - Simple JWT (Authentication)
 - SQLite (Development)
-- PostgreSQL (Production-ready)
 - CORS Headers
 
 ---
