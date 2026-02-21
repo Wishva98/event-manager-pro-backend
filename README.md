@@ -31,5 +31,5 @@ EventHub API provides secure authentication, role-based access control, and even
 
 ## 🧠 Architecture
 
-The project follows a modular Django architecture:
+The project follows a modular Django architecture
 
